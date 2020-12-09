@@ -1,11 +1,3 @@
-### Hi there 👋
-
-
-
-
-
-
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Giuseppe Mele](https://www.giuseppemele.com/)!
 
 I am a self-taught developer with UI/UX design skills working with front-end & backend-end technologies. I´m based in Phoenix, AZ and currently seeking a full time postion as a front-end or junior full-stack developer.
