@@ -10,7 +10,7 @@ Currently my go-to is React & Redux on the front-end, Node.js & Express.js for b
 
 ### What are my goals? 😃🧾
 
-Goal #1 is to never get bored and never stop learning. Goal #2 is to work alongside people with a growth mindset. Goal #3 is to be a well rounded full-stack developer within the next 2 years. 
+**Goal #1** is to never get bored and never stop learning. **Goal #2** is to work alongside people with a growth mindset. **Goal #3** is to be a well rounded full-stack developer within the next 2 years. 
 
 
 
