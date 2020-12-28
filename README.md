@@ -2,7 +2,7 @@
 
 I am a self-taught developer with UI/UX design skills working with front-end & backend-end technologies. I´m based in Phoenix, AZ and currently seeking a full time position as a front-end or junior full-stack developer.
 
-[Download my CV.](https://www.giuseppemele.com/static/media/resume.8ab4769f.pdf)
+[Download my CV.](https://www.giuseppemele.com/static/media/resume.151f21b5.pdf)
 
 ### What tools do I use? 👨‍💻
 
